@@ -1,0 +1,10 @@
+C:\Users\Leo\source\repos\FreeBobuxGenerator\bin\Debug\FreeBobuxGenerator.exe.config
+C:\Users\Leo\source\repos\FreeBobuxGenerator\bin\Debug\FreeBobuxGenerator.exe
+C:\Users\Leo\source\repos\FreeBobuxGenerator\bin\Debug\FreeBobuxGenerator.pdb
+C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csprojAssemblyReference.cache
+C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.Form1.resources
+C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.Properties.Resources.resources
+C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.exe
+C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.pdb
