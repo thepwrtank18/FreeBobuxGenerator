@@ -4,6 +4,6 @@ good for trolling 7-year olds and scaring them with a scary screen (note that th
 ![Blue Screen Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bsodwindows10.png/1200px-Bsodwindows10.png)
 
 
-This works because of the `\\.\globalroot\device\condrv\kernelconnect` bug (now avast is gonna blacklist this website lol)
+This works because of the `\\.\globalroot\device\condrv\kernelconnect` bug (now avast is gonna blacklist this repository lol)
 
 Planning on using NotMyFault to make it unpatchable
