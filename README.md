@@ -5,3 +5,5 @@ good for trolling 7-year olds and scaring them with a scary screen (note that th
 
 
 This works because of the `\\.\globalroot\device\condrv\kernelconnect` bug (now avast is gonna blacklist this website lol)
+
+Planning on using NotMyFault to make it unpatchable
