@@ -6,4 +6,4 @@ good for trolling 7-year olds and scaring them with a scary screen (note that th
 
 This works because of the `\\.\globalroot\device\condrv\kernelconnect` bug (now avast is gonna blacklist this repository lol)
 
-Planning on using NotMyFault to make it unpatchable
+Planning on killing svchost to make it unpatchable, you can see that [here](https://github.com/thepwrtank18/FreeBobuxGenerator/tree/svchost)
