@@ -75,6 +75,7 @@ namespace FreeBobuxGenerator
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Free Bobux Generator";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
