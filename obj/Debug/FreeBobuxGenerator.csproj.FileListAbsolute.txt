@@ -8,3 +8,10 @@ C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csproj
 C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csproj.CoreCompileInputs.cache
 C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.exe
 C:\Users\Leo\source\repos\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.pdb
+C:\Users\Leo\source\repos\thepwrtank18\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\thepwrtank18\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.Form1.resources
+C:\Users\Leo\source\repos\thepwrtank18\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.Properties.Resources.resources
+C:\Users\Leo\source\repos\thepwrtank18\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\thepwrtank18\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\thepwrtank18\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.exe
+C:\Users\Leo\source\repos\thepwrtank18\FreeBobuxGenerator\obj\Debug\FreeBobuxGenerator.pdb
